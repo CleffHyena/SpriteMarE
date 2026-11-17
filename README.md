@@ -13,14 +13,6 @@ I may however at final stages implement a simple smoke, magic, explosion effect 
 
 Various free libraries and tools exist only professionals can use for AR live composite filmmaking.
 
-SpriteMarE is planned to use
-
-Godot for a world builder with simple texture painting and generation
-
-
-
- joins common gyro-cameras and art tools to a live world.
-
 Fantasy films can be brought alive from a concept in one room and sitting, without prior 3D training. Tablets and phones are used with Godot style paintbox apps, camera apps and live output to a world on a TV everyone onstage sees. All that is needed is:
 
 • a powerful host computer
@@ -36,6 +28,18 @@ Fantasy films can be brought alive from a concept in one room and sitting, witho
 Aiming to usable by all ages, for free, as a collaborative team, SpriteMarE is a playground anyone can fumble with before they can rumble with a full 3D engine.
 
 SME will also sync to RGB lights you can place in and around set so that in world light sources move around and change.
+
+
+
+SpriteMarE is planned to use:
+
+Godot for a world builder with simple texture painting and generation
+
+ARCore joins common android gyro-cameras and these art tools to a live world.
+
+
+
+
 
 I also want to integrate a course led by my own voice where user storywriting evolves from premade visual elements like they are Lego, as this helps 'uncreative' minds build confidence. The UK show Bamzooki from 2005 is a model for how this will work.
 
