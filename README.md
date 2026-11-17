@@ -1,7 +1,5 @@
 SpriteMarE
 
-SuperMarionEtte Augmented Reality Film Studio
-
 SpriteMarE SME is a 'SuperMarionEtte' Augmented Reality film studio for beginners, built using open-source pro chroma/tracking tools.
 
 An Android app for multiple 3D cameras/paintboxes and Host Machine app that composites 720p tracked shots live on a TV actors see.
