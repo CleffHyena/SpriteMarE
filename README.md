@@ -1,33 +1,41 @@
 # SpriteMarE
 SpriteMarE SME is a 'SuperMarionEtte' Augmented Reality film studio for beginners, built using open-source pro chroma/tracking tools.
 
-Instead, an Android app for multiple 3D cameras/paintboxes and Host Machine that composites tracked shots live on a TV actors see.
+An Android app for multiple 3D cameras/paintboxes and Host Machine app that composites 720p tracked shots live on a TV actors see.
 
-'Spy Kids' one room composite filmmaking, drones instead of boom arms and a fun simple 3D world builder instead of full blender.
+'Spy Kids' one room composite background filmmaking, drones instead of boom arms and a fun simple 3D world builder instead of full blender.
 
 Digital Puppetry and complex animation is not the focus. I want analog puppets, acting, real props.
 
-I may however at final stages implement a simple smoke, magic, explosion effect etc. system.
+At final stages I will implement a simple smoke, magic, explosion effect etc. system.
 
 
 
 Various free libraries and tools exist only professionals can use for AR live composite filmmaking.
 
-Fantasy films can be brought alive from a concept in one room and sitting, without prior 3D training. Tablets and phones are used with Godot style paintbox apps, camera apps and live output to a world on a TV everyone onstage sees. All that is needed is:
+Fantasy films can be brought alive from a concept in one room and sitting, without prior 3D training. Tablets and phones are used with Godot paintbox apps, camera apps and live output to a world on a TV everyone onstage sees. All that is needed is:
 
-• a powerful host computer
+• a powerful host computer. (Mac OS build coming first as that's my main audio editing setup)
 
-• tablet, phone, or drones, optional 6dof camera setup
+• android tablet, phone, or drones, optional 6dof camera setup
 
 • local networking
 
-• 2 HDMI monitoring screens
+• 2 HDMI monitoring screens, one preferably large for actors to see.
 
-• chromakey screen and optional RGB lighting
+• chromakey sheets and optional RGB lighting
 
-Aiming to usable by all ages, for free, as a collaborative team, SpriteMarE is a playground anyone can fumble with before they can rumble with a full 3D engine.
+• All out-of-studio time and budget is reserved for costumes, post editing and a preferably large space for panning and drone shots indoors.
 
-SME will also sync to RGB lights you can place in and around set so that in world light sources move around and change.
+SME syncs to RGB lights you can place in and around set so that in world light sources move around and change, glow and flash live in backgrounds.
+
+I am going to use a local hall space and aim for this to be usable by community spaces.
+
+Aiming to usable by all ages, for free, as a collaborative team,
+
+ SpriteMarE is a playground anyone can fumble with before they can rumble with a full 3D engine.
+
+
 
 
 
