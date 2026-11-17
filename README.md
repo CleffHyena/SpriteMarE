@@ -1,7 +1,7 @@
 # SpriteMarE
 SpriteMarE SME is a 'SuperMarionEtte' Augmented Reality film studio for beginners, built using open-source pro chroma/tracking tools.
 
-Instead, an Android app for camera/3D paintbox and Host Machine that composites tracked shots live on a TV actors see.
+Instead, an Android app for multiple 3D cameras/paintboxes and Host Machine that composites tracked shots live on a TV actors see.
 
 'Spy Kids' one room composite filmmaking, drones instead of boom arms and a fun simple 3D world builder instead of full blender.
 
