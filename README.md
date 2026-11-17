@@ -1,4 +1,4 @@
-SpriteMarE
+#SpriteMarE
 
 SpriteMarE SME is a 'SuperMarionEtte' Augmented Reality film studio for beginners, built using open-source pro chroma/tracking tools.
 
@@ -65,7 +65,7 @@ I will use still educational examples ranging from PeeWee Herman's to Resident E
 
 Visual Direction
 
-I will limit all of this to a standard definition, 1990s FMV, ReBoot, Parappa inspired look.
+I will limit all of this to a 720p definition, 1990s FMV, ReBoot, Parappa inspired look.
 
 A UI that looks like the intro to a cereal box CD 'Art Attack' suite.
 
