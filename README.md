@@ -6,9 +6,13 @@ Various free libraries and tools exist only professionals can use for AR filmmak
 Fantasy films can be brought alive from a concept in one room and sitting, without prior 3D training. Tablets and phones are used with Godot style paintbox apps, camera apps and live output to a world on a TV everyone onstage sees. All that is needed is:
 
 • a powerful host computer
+
 • tablet, phone, or drones, optional 6dof camera setup
+
 • local networking
+
 • 2 HDMI monitoring screens
+
 • chromakey screen and lighting
 
 Aiming to usable by all ages, for free, as a collaborative team, SpriteMarE is a playground anyone can fumble with before they can rumble with a full 3D engine.
