@@ -8,7 +8,7 @@ An Android app for multiple 3D cameras/paintboxes and Host Machine app that comp
 
 Digital Puppetry and complex animation is not the focus. I want analog puppets, acting, real props.
 
-There is strictly no 3D animation, only animated 2D sprites and billboards, to help save time on set making a world.
+There is strictly no 3D animation, only animated 2D sprites and billboards, to help save time on set making a world. This also helps allow for real time monitoring on the TV.
 
 The world builder is focused on preset non-AI world generation. You can scan a 2D image of a drawn or Lego building to see it in engine and make whole cities, forests or sci fi settings.
 
