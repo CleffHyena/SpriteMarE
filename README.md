@@ -14,6 +14,10 @@ The world builder is focused on preset non-AI world generation. You can scan a 2
 
 At final stages I will implement a simple smoke, magic, explosion effect etc. system.
 
+Big Camera movements between giant scale backdrops of cities or planet surfaces and up close actors like the shots of "Mainframe" in ReBoot or Katamari Damacy are a big aim.
+
+Kaiju fights and a guide to use martial arts, skateboarding, rollerblading, real puppets and other mediums of excitement safely on set will be a big aim.
+
 ---
 
 The Concept
